@@ -2,7 +2,9 @@
 Engineering project [PL] in python, using Raspberry Pi 4B and the A* algorithm. 
 
 Used:
+
 -Tensorflow, Keras and OpenCV libraries
+
 -Teachable Machine by Google
 
 The 8puzzle problem:

@@ -1,5 +1,5 @@
 # Robotic-arm-8puzzle
-Engineering project [PL] in python, using Raspberry Pi.
+Engineering project [PL] in python, using Raspberry Pi 4B and the A* algorithm.
 
 The 8puzzle problem:
 
